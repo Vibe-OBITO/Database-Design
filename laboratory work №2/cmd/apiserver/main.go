@@ -1,7 +1,10 @@
 package main
 
 import (
-	"github.com/Alex27Khalupka/PBZ_Lab_2_Enterprise/pkg/apiserver"
+	"github.com Vibe-OBITO/database-design/laboratory work №2/pkg/apiserver"
+	_ "github.com/lib/pq"
+	"log"
+"
 	_ "github.com/lib/pq"
 	"log"
 )
