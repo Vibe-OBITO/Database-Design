@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com Vibe-OBITO/database-design/laboratory work №2/pkg/apiserver"
+	"github.com/Vibe-OBITO/database-design/laboratory work №2/pkg/apiserver"
 	_ "github.com/lib/pq"
 	"log"
 "
